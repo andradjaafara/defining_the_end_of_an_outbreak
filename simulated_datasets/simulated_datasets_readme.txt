@@ -1,4 +1,4 @@
-This folder contains simulated datasets used in the paper:
+This folder contains simulated datasets (in R list) used in the paper in the form of .rds files. Each simulated datasets contain 1,000 outbreak trajectories. Random selection of 100 trajectory indexes used for simulations are stored in the randomised_index folder:
 1. Poisson based outbreak with Rt = 0.6 at the declining phase of the outbreak.
 2. Poisson based outbreak with Rt = 0.3 at the declining phase of the outbreak.
 3. Poisson based outbreak with Rt = 0.9 at the declining phase of the outbreak.
